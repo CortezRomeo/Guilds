@@ -1,5 +1,7 @@
 #Guilds
 
-làm cho alpha5 : lệnh stats cho GUI lẫn ChAT 
+làm cho alpha6 : lệnh stats cho GUI lẫn ChAt
 
-phần leave trong guildUtils
+phần gui form cho phần leave gui
+
+Làm từng file gui (.yml) trong folder gui
