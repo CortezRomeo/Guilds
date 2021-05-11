@@ -1,0 +1,16 @@
+# Đừng thay đổi "name" nếu không muốn lỗi!
+name: GuildsS
+main: me.Cortez.guilds.Core
+website: minecraftvn.net
+
+version: alpha1
+author: "Cortez Romeo"
+
+softdepend: [PlayerPoints, TokenManager, Vault, PlaceholderAPI]
+description: "Plugin quản lý Guild"
+
+commands:
+  guild:
+    description: "Lệnh chính"
+    aliases:
+    - guilds
